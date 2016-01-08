@@ -1,0 +1,29 @@
+D/common////
+D/ddc////
+D/dixmods////
+D/doc////
+D/dri////
+D/dri2////
+D/dummylib////
+D/exa////
+D/fbdevhw////
+D/i2c////
+D/int10////
+D/loader////
+D/man////
+D/modes////
+D/os-support////
+D/parser////
+D/ramdac////
+D/shadowfb////
+D/utils////
+D/vbe////
+D/vgahw////
+D/x86emu////
+/xorgconf.cpp/1.5/Mon Jul 21 02:04:53 2014//
+/Xorg.sh.in/1.1/Sat Sep 27 17:53:01 2014//
+/sdksyms.sh/1.5/Sun Sep 28 07:18:20 2014//
+/xorg-wrapper.c/1.1/Sat Sep 27 17:53:01 2014//
+D/glamor_egl////
+/Makefile.am/1.10/Mon Oct 20 07:19:46 2014//
+/Makefile.in/1.30/Mon Oct 20 07:19:46 2014//

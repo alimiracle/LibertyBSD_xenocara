@@ -1,0 +1,14 @@
+/lnx_agp.c/1.5/Sun Jun 10 13:21:25 2012//
+/lnx_axp.c/1.5/Sun Jun 10 13:21:25 2012//
+/lnx_bell.c/1.4/Sun Jun 10 13:21:25 2012//
+D/int10////
+/Makefile.am/1.8/Sun Sep 28 07:18:23 2014//
+/Makefile.in/1.29/Sun Sep 28 07:18:23 2014//
+/lnx_acpi.c/1.6/Sun Sep 28 07:18:23 2014//
+/lnx_apm.c/1.5/Sun Sep 28 07:18:23 2014//
+/lnx_ev56.c/1.5/Sun Sep 28 07:18:23 2014//
+/lnx_init.c/1.9/Sun Sep 28 07:18:23 2014//
+/lnx_kmod.c/1.4/Sun Sep 28 07:18:23 2014//
+/lnx_platform.c/1.4/Sun Sep 28 07:18:23 2014//
+/lnx_video.c/1.12/Sun Sep 28 07:18:23 2014//
+/systemd-logind.c/1.1/Sat Sep 27 17:53:02 2014//

@@ -1,0 +1,52 @@
+/README/1.1/Tue Jul 27 19:02:24 2010//
+/autogen.sh/1.3/Fri Jun  7 17:28:45 2013//
+/config.guess/1.7/Fri Jun  7 17:28:45 2013//
+/config.sub/1.7/Fri Jun  7 17:28:45 2013//
+/depcomp/1.5/Fri Jun  7 17:28:46 2013//
+/devbook.am/1.2/Sun Jun 10 13:21:06 2012//
+/docbook.am/1.2/Sun Jun 10 13:21:06 2012//
+/install-sh/1.3/Sun Aug  5 18:14:29 2012//
+/ltmain.sh/1.8/Sun Dec 18 16:08:59 2011//
+/missing/1.3/Sun Aug  5 18:14:29 2012//
+/xorg-server.m4/1.3/Fri Jun  7 17:28:46 2013//
+/xorg-server.pc.in/1.7/Fri Jun  7 17:28:46 2013//
+/xserver.ent.in/1.1/Sat Nov  5 13:32:40 2011//
+/ylwrap/1.3/Sun Oct 14 08:59:33 2012//
+D/Xext////
+D/Xi////
+D/composite////
+D/config////
+D/damageext////
+D/dbe////
+D/dix////
+D/doc////
+D/exa////
+D/fb////
+D/glx////
+D/hw////
+D/include////
+D/m4////
+D/man////
+D/mi////
+D/miext////
+D/os////
+D/randr////
+D/record////
+D/render////
+D/test////
+D/xfixes////
+D/xkb////
+/COPYING/1.7/Mon Jul 21 02:04:45 2014//
+D/dri3////
+D/present////
+D/pseudoramiX////
+/Makefile.am/1.8/Sun Sep 28 07:18:09 2014//
+/manpages.am/1.2/Sun Sep 28 07:18:10 2014//
+/test-driver/1.2/Sun Sep 28 07:18:10 2014//
+D/glamor////
+/Makefile.in/1.30/Sat Nov 22 18:19:49 2014//
+/ChangeLog/1.25/Thu Feb 12 08:19:54 2015//
+/aclocal.m4/1.30/Sat Jun 20 17:22:13 2015//
+/configure/1.56/Sat Jun 20 17:22:13 2015//
+/configure.ac/1.51/Sat Jun 20 17:22:13 2015//
+/Makefile.bsd-wrapper/1.55/Sun Jun 28 07:21:20 2015//

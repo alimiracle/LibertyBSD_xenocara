@@ -1,0 +1,51 @@
+/COPYING/1.1.1.1/Fri May 22 15:56:05 2009//
+/INSTALL/1.1.1.1/Fri May 22 15:56:05 2009//
+/Makefile.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/README/1.1.1.1/Fri May 22 15:55:46 2009//
+/aclocal.m4/1.1.1.1/Fri May 22 15:55:52 2009//
+/autogen.sh/1.2/Fri May 31 14:18:43 2013//
+/config.guess/1.1.1.1/Fri May 22 15:56:06 2009//
+/config.sub/1.1.1.1/Fri May 22 15:56:07 2009//
+/configure/1.1.1.1/Fri May 22 15:56:05 2009//
+/depcomp/1.1.1.1/Fri May 22 15:56:07 2009//
+/install-sh/1.1.1.1/Fri May 22 15:56:07 2009//
+/ltmain.sh/1.1.1.1/Fri May 22 15:56:10 2009//
+/missing/1.1.1.1/Fri May 22 15:56:10 2009//
+/xcb-composite.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-damage.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-dpms.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-dri2.pc.in/1.1/Sun Apr 18 20:06:18 2010//
+/xcb-glx.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-record.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-render.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-res.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-screensaver.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-shape.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-shm.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-sync.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-xevie.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-xf86dri.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-xfixes.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-xinerama.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-xkb.pc.in/1.1/Tue Mar 27 19:14:20 2012//
+/xcb-xprint.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-xselinux.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-xtest.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-xv.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb-xvmc.pc.in/1.1.1.1/Fri May 22 15:55:53 2009//
+/xcb.pc.in/1.2/Sun May 31 16:44:43 2009//
+D/doc////
+D/src////
+D/tests////
+D/tools////
+/compile/1.1/Mon Apr 14 19:02:17 2014//
+/xcb-dri3.pc.in/1.1/Mon Apr 14 19:02:17 2014//
+D/build-aux////
+D/m4////
+/Makefile.am/1.5/Tue Jan 27 08:18:26 2015//
+/NEWS/1.10/Tue Jan 27 08:18:26 2015//
+/check-pc-requires/1.1/Mon Jan 26 21:32:11 2015//
+/configure.ac/1.10/Tue Jan 27 08:18:26 2015//
+/xcb-present.pc.in/1.2/Tue Jan 27 08:18:26 2015//
+/xcb-randr.pc.in/1.2/Tue Jan 27 08:18:26 2015//
+/xcb-xinput.pc.in/1.2/Tue Jan 27 08:18:27 2015//

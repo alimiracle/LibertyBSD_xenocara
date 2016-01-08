@@ -1,0 +1,12 @@
+/debug.c/1.2/Sun Jun 10 13:21:27 2012//
+/fpu.c/1.2/Sun Jun 10 13:21:27 2012//
+/ops2.c/1.5/Sun Jun 10 13:21:27 2012//
+/prim_ops.c/1.5/Sun Jun 10 13:21:27 2012//
+/sys.c/1.4/Sun Jun 10 13:21:27 2012//
+/validate.c/1.3/Sun Jun 10 13:21:27 2012//
+/x86emu.h/1.2/Sun Jun 10 13:21:27 2012//
+D/x86emu////
+/Makefile.am/1.4/Mon Jul 21 02:04:57 2014//
+/decode.c/1.3/Mon Jul 21 02:04:57 2014//
+/Makefile.in/1.29/Sun Sep 28 07:18:25 2014//
+/ops.c/1.6/Sun Sep 28 07:18:25 2014//

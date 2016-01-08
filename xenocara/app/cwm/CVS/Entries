@@ -1,0 +1,19 @@
+/calmwm.c/1.93/Mon Jan 19 18:17:00 2015//
+/util.c/1.17/Mon Jan 19 18:17:00 2015//
+/xmalloc.c/1.15/Sun Mar 29 07:18:12 2015//
+/xutil.c/1.99/Sun Mar 29 07:18:12 2015//
+/parse.y/1.64/Sun May 17 07:17:38 2015//
+/cwm.1/1.52/Mon Jun  1 07:18:04 2015//
+/Makefile/1.21/Fri Jun 26 17:19:00 2015//
+/group.c/1.112/Mon Jun 29 07:17:43 2015//
+/screen.c/1.76/Tue Jun 30 17:17:16 2015//
+/client.c/1.198/Wed Jul  1 17:18:24 2015//
+/xevents.c/1.118/Wed Jul  1 17:18:24 2015//
+/calmwm.h/1.297/Sun Jul 12 17:18:12 2015//
+/conf.c/1.191/Sun Jul 12 17:18:12 2015//
+/cwmrc.5/1.61/Sun Jul 12 17:18:12 2015//
+/kbfunc.c/1.113/Sun Jul 12 17:18:12 2015//
+/menu.c/1.87/Sun Jul 12 17:18:12 2015//
+/mousefunc.c/1.96/Sun Jul 12 17:18:12 2015//
+/search.c/1.49/Sun Jul 12 17:18:12 2015//
+D

@@ -1,0 +1,16 @@
+/protocol-eventconvert.c/1.5/Fri Jun  7 17:28:56 2013//
+/protocol-xiselectevents.c/1.4/Fri Jun  7 17:28:56 2013//
+/protocol-xisetclientpointer.c/1.4/Fri Jun  7 17:28:56 2013//
+/xi2.c/1.2/Fri Jun  7 17:28:56 2013//
+/Makefile.am/1.5/Mon Jul 21 02:05:08 2014//
+/Makefile.in/1.14/Sun Sep 28 07:18:38 2014//
+/protocol-common.c/1.7/Sun Sep 28 07:18:38 2014//
+/protocol-common.h/1.5/Sun Sep 28 07:18:38 2014//
+/protocol-xigetselectedevents.c/1.4/Sun Sep 28 07:18:38 2014//
+/protocol-xiquerydevice.c/1.5/Sun Sep 28 07:18:38 2014//
+/protocol-xiqueryversion.c/1.6/Sun Sep 28 07:18:38 2014//
+/protocol-xigetclientpointer.c/1.4/Tue Dec  9 18:20:12 2014//
+/protocol-xipassivegrabdevice.c/1.6/Tue Dec  9 18:20:12 2014//
+/protocol-xiquerypointer.c/1.5/Tue Dec  9 18:20:12 2014//
+/protocol-xiwarppointer.c/1.5/Tue Dec  9 18:20:12 2014//
+D

@@ -1,0 +1,22 @@
+/newline/1.1.1.1/Sat Nov 25 18:45:45 2006//
+D/amiga////
+D/ansi////
+D/atari////
+D/beos////
+D/compiler////
+D/dos////
+D/mac////
+D/os2////
+D/symbian////
+D/unix////
+D/vms////
+D/wince////
+D/windows////
+D/cmake////
+/detect.mk/1.5/Sun Jun 28 17:21:08 2015//
+/exports.mk/1.4/Sun Jun 28 17:21:08 2015//
+/freetype.mk/1.7/Sun Jun 28 17:21:08 2015//
+/link_dos.mk/1.2/Sun Jun 28 17:21:08 2015//
+/link_std.mk/1.2/Sun Jun 28 17:21:08 2015//
+/modules.mk/1.4/Sun Jun 28 17:21:08 2015//
+/toplevel.mk/1.12/Sun Jun 28 17:21:08 2015//

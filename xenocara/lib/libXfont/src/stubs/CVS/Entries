@@ -1,0 +1,20 @@
+/Makefile.am/1.5/Sun Sep 28 07:17:46 2014//
+/Makefile.in/1.13/Sun Sep 28 07:17:46 2014//
+/cauthgen.c/1.2/Sun Sep 28 07:17:46 2014//
+/csignal.c/1.2/Sun Sep 28 07:17:46 2014//
+/delfntcid.c/1.2/Sun Sep 28 07:17:46 2014//
+/errorf.c/1.2/Sun Sep 28 07:17:46 2014//
+/findoldfnt.c/1.2/Sun Sep 28 07:17:46 2014//
+/getcres.c/1.2/Sun Sep 28 07:17:46 2014//
+/getdefptsize.c/1.2/Sun Sep 28 07:17:46 2014//
+/getnewfntcid.c/1.2/Sun Sep 28 07:17:46 2014//
+/gettime.c/1.2/Sun Sep 28 07:17:46 2014//
+/initfshdl.c/1.2/Sun Sep 28 07:17:46 2014//
+/regfpefunc.c/1.3/Sun Sep 28 07:17:46 2014//
+/rmfshdl.c/1.3/Sun Sep 28 07:17:46 2014//
+/servclient.c/1.2/Sun Sep 28 07:17:46 2014//
+/setfntauth.c/1.2/Sun Sep 28 07:17:46 2014//
+/stfntcfnt.c/1.2/Sun Sep 28 07:17:46 2014//
+/stubs.h/1.7/Sun Sep 28 07:17:46 2014//
+/stubsinit.c/1.1/Sat Sep 27 17:43:02 2014//
+D

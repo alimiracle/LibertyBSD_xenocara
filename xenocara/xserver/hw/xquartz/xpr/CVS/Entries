@@ -1,0 +1,24 @@
+/appledri.h/1.3/Sun Jun 10 13:21:29 2012//
+/appledristr.h/1.3/Sun Jun 10 13:21:29 2012//
+/driWrap.h/1.2/Sun Jun 10 13:21:29 2012//
+/dristruct.h/1.2/Sun Jun 10 13:21:29 2012//
+/x-hash.c/1.3/Sun Jun 10 13:21:29 2012//
+/x-hash.h/1.4/Sun Jun 10 13:21:29 2012//
+/x-hook.h/1.2/Sun Jun 10 13:21:29 2012//
+/x-list.c/1.3/Sun Jun 10 13:21:29 2012//
+/x-list.h/1.2/Sun Jun 10 13:21:29 2012//
+/xpr.h/1.5/Sun Jun 10 13:21:29 2012//
+/xprAppleWM.c/1.7/Sun Jun 10 13:21:29 2012//
+/xprEvent.c/1.6/Fri Jun  7 17:28:54 2013//
+/xprEvent.h/1.3/Sun Jun 10 13:21:29 2012//
+/xprFrame.c/1.8/Fri Jun  7 17:28:54 2013//
+/Makefile.am/1.4/Mon Jul 21 02:05:05 2014//
+/appledri.c/1.8/Mon Jul 21 02:05:05 2014//
+/x-hook.c/1.5/Mon Jul 21 02:05:05 2014//
+/xprCursor.c/1.7/Mon Jul 21 02:05:05 2014//
+/Makefile.in/1.17/Sun Sep 28 07:18:34 2014//
+/dri.c/1.9/Sun Sep 28 07:18:34 2014//
+/dri.h/1.5/Sun Sep 28 07:18:34 2014//
+/driWrap.c/1.5/Sun Sep 28 07:18:34 2014//
+/xprScreen.c/1.10/Sun Sep 28 07:18:34 2014//
+D

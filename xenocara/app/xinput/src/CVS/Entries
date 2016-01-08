@@ -1,0 +1,18 @@
+/Makefile.am/1.4/Mon Jun 11 19:26:23 2012//
+/buttonmap.c/1.3/Mon Jun 11 19:26:23 2012//
+/feedback.c/1.3/Mon Jun 11 19:26:23 2012//
+/hierarchy.c/1.3/Mon Jun 11 19:26:23 2012//
+/setcp.c/1.3/Mon Jun 11 19:26:23 2012//
+/setint.c/1.3/Mon Jun 11 19:26:23 2012//
+/setmode.c/1.4/Mon Jun 11 19:26:23 2012//
+/setptr.c/1.3/Mon Jun 11 19:26:23 2012//
+/state.c/1.3/Mon Jun 11 19:26:23 2012//
+/xinput.h/1.4/Mon Jun 11 19:26:23 2012//
+/Makefile.in/1.9/Mon Jul 21 02:01:48 2014//
+/list.c/1.9/Mon Jul 21 02:01:48 2014//
+/test.c/1.4/Mon Jul 21 02:01:48 2014//
+/test_xi2.c/1.5/Mon Jul 21 02:01:48 2014//
+/transform.c/1.2/Mon Jul 21 02:01:48 2014//
+/xinput.c/1.7/Mon Jul 21 02:01:48 2014//
+/property.c/1.7/Sat Jun 20 17:19:30 2015//
+D

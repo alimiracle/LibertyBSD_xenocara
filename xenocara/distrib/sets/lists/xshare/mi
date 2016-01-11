@@ -1,7 +1,4 @@
-./etc/X11/xdm/pixmaps/OpenBSD_15bpp.xpm
-./etc/X11/xdm/pixmaps/OpenBSD_1bpp.xpm
-./etc/X11/xdm/pixmaps/OpenBSD_4bpp.xpm
-./etc/X11/xdm/pixmaps/OpenBSD_8bpp.xpm
+./etc/X11/xdm/pixmaps/LibertyLogo.xpm
 ./usr/X11R6/bin/gccmakedep
 ./usr/X11R6/bin/startx
 ./usr/X11R6/bin/x11perfcomp

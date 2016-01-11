@@ -26,7 +26,7 @@ dist_xdmscript_SCRIPTS = \
 
 pixmapdir = $(XDM_PIXMAPDIR)
 
-dist_pixmap_DATA = xorg-bw.xpm xorg.xpm
+dist_pixmap_DATA = xorg-bw.xpm xorg.xpm LibertyLogo.xpm
 
 BUILT_SOURCES = Xservers.ws xdm-config Xreset Xresources Xsession Xstartup
 

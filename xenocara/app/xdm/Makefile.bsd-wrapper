@@ -33,10 +33,7 @@ XDMCONFIGSCRIPTS= \
 	Xsession GiveConsole TakeConsole Xsetup_0 Xstartup Xreset Xwilling
 
 afterinstall:
-	$(INSTALL_DATA) ${.CURDIR}/config/OpenBSD_1bpp.xpm $(DESTDIR)$(PIXMAPDIR)
-	$(INSTALL_DATA) ${.CURDIR}/config/OpenBSD_4bpp.xpm $(DESTDIR)$(PIXMAPDIR)
-	$(INSTALL_DATA) ${.CURDIR}/config/OpenBSD_8bpp.xpm $(DESTDIR)$(PIXMAPDIR)
-	$(INSTALL_DATA) ${.CURDIR}/config/OpenBSD_15bpp.xpm $(DESTDIR)$(PIXMAPDIR)
+	$(INSTALL_DATA) ${.CURDIR}/config/LibertyLogo.xpm $(DESTDIR)$(PIXMAPDIR)
 	cd man ; $(INSTALL_DATA) xdm.1 $(DESTDIR)$(MANDIR)1/
 	@cd config ; for f in $(XDMCONFIGFILES); do \
 	  if ! test -f $(DESTDIR)$(XDMCONFIGDIR)/$$f ; then \

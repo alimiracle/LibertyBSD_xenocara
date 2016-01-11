@@ -108,18 +108,8 @@ xlogin*promptColor: white
 *Foreground: white
 *Background: black
 XHASHendif
-XHASHifdef bpp1
-xlogin*logoFileName: BITMAPDIR/**//OpenBSD_1bpp.xpm
-XHASHendif
-XHASHifdef bpp4
-xlogin*logoFileName: BITMAPDIR/**//OpenBSD_4bpp.xpm
-XHASHendif
-XHASHifdef bpp8
-xlogin*logoFileName: BITMAPDIR/**//OpenBSD_8bpp.xpm
-XHASHendif
-XHASHifdef bpp15
-xlogin*logoFileName: BITMAPDIR/**//OpenBSD_15bpp.xpm
-XHASHendif
+
+xlogin*logoFileName: BITMAPDIR/**//LibertyLogo.xpm
 
 xlogin*useShape: true
 xlogin*logoPadding: 10

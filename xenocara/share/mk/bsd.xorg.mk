@@ -172,6 +172,7 @@ config.status:
 .endif
 .endif
 	${CONFIGURE_ENV} PATH=$(XENOCARA_PATH) \
+		build_alias=amd64-unknown-openbsd5.8 \
 		exec sh ${_SRCDIR}/configure --prefix=${X11BASE} \
 		--sysconfdir=/etc \
 		--mandir=${X11BASE}/man \

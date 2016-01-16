@@ -9,6 +9,7 @@ config.status:
 	CFLAGS="${CFLAGS}" \
 	PKG_CONFIG_PATH="$(PKG_CONFIG_PATH)" \
 	CONFIG_SITE=$(CONFIG_SITE) \
+	build_alias=amd64-unknown-openbsd5.8 \
 		sh ${.CURDIR}/configure --prefix=${X11BASE} \
 		--datarootdir=${X11BASE} \
 		--enable-appdefaultdir=${X11BASE}/share/X11/app-defaults \
